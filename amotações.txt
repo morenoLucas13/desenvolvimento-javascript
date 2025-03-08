@@ -6,3 +6,4 @@ git config --global user.name "lucasmoreno122@gmail.com"
 git add .
 git commit -m "outro commit"
 git remote add origin https://github.com/morenoLucas13/desenvolvimento-javascript.git
+echo "Neste repositório será armazenada todas as atividades feitas ao longo do curso."
