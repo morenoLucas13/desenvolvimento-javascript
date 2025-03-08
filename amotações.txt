@@ -7,3 +7,6 @@ git add .
 git commit -m "outro commit"
 git remote add origin https://github.com/morenoLucas13/desenvolvimento-javascript.git
 echo "Neste repositório será armazenada todas as atividades feitas ao longo do curso."
+git add .
+git branch; (master)
+git branch -M mainecho "Ela pode ser usada tanto no front-end quando no back-end! Criando páginas interativas e processando dados." >> anotacoes.txt;
